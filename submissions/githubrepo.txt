@@ -3,23 +3,22 @@ curl -s https://api.github.com/repos/chetanagrawal721/expressBookReviews
 
 Output:
 {
-  "id": 857392014,
-  "node_id": "R_kgDOMzJ_bg",
+  "id": 1434863800,
+  "node_id": "R_kgDOVYZIuA",
   "name": "expressBookReviews",
   "full_name": "chetanagrawal721/expressBookReviews",
   "private": false,
   "owner": {
     "login": "chetanagrawal721",
-    "id": 142981920
+    "id": 188444175,
+    "html_url": "https://github.com/chetanagrawal721"
   },
   "html_url": "https://github.com/chetanagrawal721/expressBookReviews",
-  "description": "Book Review Application using Express and Node.js",
+  "description": "nodejsFinalModule",
   "fork": true,
   "url": "https://api.github.com/repos/chetanagrawal721/expressBookReviews",
-  "forks_url": "https://api.github.com/repos/chetanagrawal721/expressBookReviews/forks",
   "parent": {
     "id": 528392102,
-    "node_id": "R_kgDOH3y_Zg",
     "name": "expressBookReviews",
     "full_name": "ibm-developer-skills-network/expressBookReviews",
     "private": false,
@@ -27,10 +26,8 @@ Output:
   },
   "source": {
     "id": 528392102,
-    "node_id": "R_kgDOH3y_Zg",
     "name": "expressBookReviews",
     "full_name": "ibm-developer-skills-network/expressBookReviews",
-    "private": false,
     "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
   },
   "default_branch": "main"
