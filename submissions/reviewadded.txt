@@ -1,0 +1,13 @@
+cURL Command:
+curl -b cookies.txt -X PUT "http://localhost:5000/customer/auth/review/1?review=An amazing classic masterpiece!"
+
+Output:
+The review for the book with ISBN 1 has been added/updated.
+
+Verify Added Review Command:
+curl -X GET http://localhost:5000/review/1
+
+Output:
+{
+    "chetan": "An amazing classic masterpiece!"
+}

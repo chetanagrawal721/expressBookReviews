@@ -1,0 +1,12 @@
+cURL Command:
+curl -X GET "http://localhost:5000/title/Pride and Prejudice"
+
+Output:
+[
+    {
+        "isbn": "8",
+        "author": "Jane Austen",
+        "title": "Pride and Prejudice",
+        "reviews": {}
+    }
+]
